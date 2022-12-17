@@ -1,0 +1,19 @@
+{
+  "name": "CherryTree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-select": "^5.1.0",
+    "css-tree": "^2.3.0",
+    "react-dom": "^18.2.0",
+    "react-native-web": "^0.18.10",
+    "react-native-svg": "13.4.01~"
+  }
+}
